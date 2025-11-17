@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "python-p3-functions"
+version = "0.1.0"
+description = "My Python functions project"
+dependencies = []
+
+[tool.setuptools]
+packages = {find = {where = ["."], exclude = ["js", "lib", "node_modules", "tests", "*.egg-info"]}}

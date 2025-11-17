@@ -1,0 +1,9 @@
+LICENSE.md
+README.md
+pyproject.toml
+lib/testing/conftest.py
+lib/testing/lib_test.py
+python_p3_functions.egg-info/PKG-INFO
+python_p3_functions.egg-info/SOURCES.txt
+python_p3_functions.egg-info/dependency_links.txt
+python_p3_functions.egg-info/top_level.txt
